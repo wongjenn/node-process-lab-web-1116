@@ -5,14 +5,14 @@ In this lab, you'll need to demonstrate how to access `global` and `process` var
 ## Objectives
 
 1. Write a script that accesses global object
-1. Add logic to access process info
+1. Add logic to access process information
 1. Save and run the scripts
 
 ## Introduction
 
-You are a DevOps engineer and you're tasked with deploying a Node.js API server. Developers worked months on this app and now team needs your expertise to push the app to production.
+You are a DevOps engineer and you're tasked with deploying a Node.js API server. Developers worked for months on this app and now the team needs your expertise to push the app to production.
 
-The server needs to be "smart" enough to get secret values from whatever OS or environment it on. In other words, this lab will test you how good you know and utilize process information. For example, `global` have other global objects like `process`, while `global.process` or just `process` have system information. 
+The server needs to be "smart" enough to get secret values from whatever OS or environment it is on. In other words, this lab will test you how well you know and can utilize process information. For example, `global` has other global objects like `process`, while `global.process` or just `process` has system information. 
 
 ## Instructions
 
