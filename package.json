@@ -4,7 +4,7 @@
   "description": "Access Global and Process Variables",
   "main": "index.js",
   "scripts": {
-    "test": "NODE_ENV=qa node_modules/mocha/bin/mocha test"
+    "test": "NODE_ENV=qa mocha test"
   },
   "repository": {
     "type": "git",
